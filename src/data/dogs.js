@@ -3,6 +3,7 @@ export default [
     name: 'D1',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg',
     price: '$ 200'
   },
@@ -10,6 +11,7 @@ export default [
     name: 'D2',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg',
     price: '$ 200'
   },
@@ -17,6 +19,7 @@ export default [
     name: 'D3',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: '',
     price: '$ 200'
   },
@@ -24,6 +27,7 @@ export default [
     name: 'D4',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: '',
     price: '$ 200'
   },
@@ -31,6 +35,7 @@ export default [
     name: 'D5',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: '',
     price: '$ 200'
   },
@@ -38,6 +43,7 @@ export default [
     name: 'D6',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: '',
     price: '$ 200'
   },
@@ -45,6 +51,7 @@ export default [
     name: 'D7',
     age: 10,
     sound: 'bhow',
+    species: 'dog',
     src: '',
     price: '$ 200'
   }
